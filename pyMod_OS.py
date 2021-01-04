@@ -1,5 +1,6 @@
 import os
-import pyqrcode
+
+# import pyqrcode
 
 print("Hello World!")
 print(os.curdir)

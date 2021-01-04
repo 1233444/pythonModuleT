@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\hotkt\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
 }
