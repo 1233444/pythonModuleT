@@ -29,6 +29,8 @@ print(index)
 print(dir(pyImport_Mod_PartModxx01.__name__))
 
 print(sys.path)
+print()
+print(dir(os.path))
 
 #Using data in module depend on how you import from module
 #Case $1 if not specify on import statment
